@@ -1,0 +1,32 @@
+[
+    {
+        "course_id": "6358020b1279b6d3558d8fae",
+        "title": "C plus plus Language",
+        "price" : 300
+    },
+    {
+        "course_id": "6358020b1279b6d3558d8f99",
+        "title": "Dart Language",
+        "price" : 300
+    },
+    {
+        "course_id": "6358020b1279b6d3558d8f00",
+        "title": "Go Language",
+        "price" : 300
+    },
+    {
+        "course_id": "6358020b1279b6d3558d8f88",
+        "title": "Java Language",
+        "price" : 300
+    },
+    {
+        "course_id": "6358020b1279b6d3558d8f22",
+        "title": "Javascript Language",
+        "price" : 300
+    },
+    {
+        "course_id": "6358020b1279b6d3558d8f55",
+        "title": "Python Language",
+        "price" : 300
+    }
+]

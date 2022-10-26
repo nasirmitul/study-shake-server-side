@@ -16,8 +16,8 @@
         "rating": 4.9,
         "reviews": 2000,
         "courseType": "Advance",
-        "CourseDuration": "3 months",
-        "Prerequisites": "None",
+        "courseDuration": "3 months",
+        "prerequisites": "None",
         "syllabus" : [
             {
                 "lesson" : 1,
@@ -92,8 +92,8 @@
         "rating": 4.9,
         "reviews": 2000,
         "courseType": "Advance",
-        "CourseDuration": "3 months",
-        "Prerequisites": "None",
+        "courseDuration": "3 months",
+        "prerequisites": "None",
         "syllabus" : [
             {
                 "lesson" : 1,
@@ -168,8 +168,8 @@
         "rating": 4.9,
         "reviews": 2000,
         "courseType": "Advance",
-        "CourseDuration": "3 months",
-        "Prerequisites": "None",
+        "courseDuration": "3 months",
+        "prerequisites": "None",
         "syllabus" : [
             {
                 "lesson" : 1,
@@ -244,8 +244,8 @@
         "rating": 4.9,
         "reviews": 2000,
         "courseType": "Advance",
-        "CourseDuration": "3 months",
-        "Prerequisites": "None",
+        "courseDuration": "3 months",
+        "prerequisites": "None",
         "syllabus" : [
             {
                 "lesson" : 1,
@@ -320,8 +320,8 @@
         "rating": 4.9,
         "reviews": 2000,
         "courseType": "Advance",
-        "CourseDuration": "3 months",
-        "Prerequisites": "None",
+        "courseDuration": "3 months",
+        "prerequisites": "None",
         "syllabus" : [
             {
                 "lesson" : 1,
@@ -396,8 +396,8 @@
         "rating": 4.9,
         "reviews": 2000,
         "courseType": "Advance",
-        "CourseDuration": "3 months",
-        "Prerequisites": "None",
+        "courseDuration": "3 months",
+        "prerequisites": "None",
         "syllabus" : [
             {
                 "lesson" : 1,
