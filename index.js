@@ -26,8 +26,7 @@ app.get('/courses/course/:id', (req, res) => {
 
 app.get('/courses/course/checkout/:id', (req, res) =>{
     const course_checkout_id = req.params.id
-    console.log(course_checkout_id);
-
+    // console.log(course_checkout_id);
     const selectedCourseCheckOut = checkOut.find( c => c.course_id === course_checkout_id)
     res.send(selectedCourseCheckOut)
 })

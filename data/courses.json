@@ -4,13 +4,13 @@
         "title": "C plus plus Language",
         "thumbnail": "https://i.ibb.co/fxsbHSd/cpp.png",
         "authorImage": "https://i.ibb.co/r2hvDvH/two.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Hasan Mahmud",
         "skills": [
-            "html",
-            "css",
-            "bootstrap",
-            "tailwind",
-            "figma"
+            "syntax",
+            "variable",
+            "loop",
+            "condition"
+
         ],
         "rating": 4.9,
         "reviews": 2000,
@@ -22,13 +22,12 @@
         "title": "Dart Language",
         "thumbnail": "https://i.ibb.co/W6VtksD/dart.png",
         "authorImage": "https://i.ibb.co/gZpqVt8/tweenty.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Bijoy Sarker",
         "skills": [
-            "html",
-            "css",
-            "bootstrap",
-            "tailwind",
-            "figma"
+            "syntax",
+            "variable",
+            "loop",
+            "condition"
         ],
         "rating": 4.9,
         "reviews": 2000,
@@ -40,13 +39,12 @@
         "title": "Go Language",
         "thumbnail": "https://i.ibb.co/b6YFcmR/go.png",
         "authorImage": "https://i.ibb.co/vZDJWt5/six.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Enam Chowdhury",
         "skills": [
-            "html",
-            "css",
-            "bootstrap",
-            "tailwind",
-            "figma"
+            "syntax",
+            "variable",
+            "loop",
+            "condition"
         ],
         "rating": 4.9,
         "reviews": 2000,
@@ -58,13 +56,12 @@
         "title": "Java Language",
         "thumbnail": "https://i.ibb.co/7jsW0f6/java.png",
         "authorImage": "https://i.ibb.co/rFt09j6/seven.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Nasir Mitul",
         "skills": [
-            "html",
-            "css",
-            "bootstrap",
-            "tailwind",
-            "figma"
+            "syntax",
+            "variable",
+            "loop",
+            "condition"
         ],
         "rating": 4.9,
         "reviews": 2000,
@@ -76,13 +73,12 @@
         "title": "Javascript Language",
         "thumbnail": "https://i.ibb.co/FWB1YQf/javascript.jpg",
         "authorImage": "https://i.ibb.co/Hg6GdG5/nineteen.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Mahdi Khan",
         "skills": [
-            "html",
-            "css",
-            "bootstrap",
-            "tailwind",
-            "figma"
+            "syntax",
+            "variable",
+            "loop",
+            "condition"
         ],
         "rating": 4.9,
         "reviews": 2000,
@@ -94,13 +90,12 @@
         "title": "Python Language",
         "thumbnail": "https://i.ibb.co/h10FtVt/python.png",
         "authorImage": "https://i.ibb.co/wyCwv2k/nine.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Rahul Khan",
         "skills": [
-            "html",
-            "css",
-            "bootstrap",
-            "tailwind",
-            "figma"
+            "syntax",
+            "variable",
+            "loop",
+            "condition"
         ],
         "rating": 4.9,
         "reviews": 2000,

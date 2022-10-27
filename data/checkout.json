@@ -2,31 +2,37 @@
     {
         "course_id": "6358020b1279b6d3558d8fae",
         "title": "C plus plus Language",
-        "price" : 300
+        "thumbnail": "https://i.ibb.co/fxsbHSd/cpp.png",
+        "price": 300
     },
     {
         "course_id": "6358020b1279b6d3558d8f99",
         "title": "Dart Language",
-        "price" : 300
+        "thumbnail": "https://i.ibb.co/W6VtksD/dart.png",
+        "price": 300
     },
     {
         "course_id": "6358020b1279b6d3558d8f00",
         "title": "Go Language",
-        "price" : 300
+        "thumbnail": "https://i.ibb.co/b6YFcmR/go.png",
+        "price": 300
     },
     {
         "course_id": "6358020b1279b6d3558d8f88",
         "title": "Java Language",
-        "price" : 300
+        "thumbnail": "https://i.ibb.co/7jsW0f6/java.png",
+        "price": 300
     },
     {
         "course_id": "6358020b1279b6d3558d8f22",
         "title": "Javascript Language",
-        "price" : 300
+        "thumbnail": "https://i.ibb.co/FWB1YQf/javascript.jpg",
+        "price": 300
     },
     {
         "course_id": "6358020b1279b6d3558d8f55",
         "title": "Python Language",
-        "price" : 300
+        "thumbnail": "https://i.ibb.co/h10FtVt/python.png",
+        "price": 300
     }
 ]

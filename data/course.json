@@ -2,15 +2,15 @@
     {
         "course_id": "6358020b1279b6d3558d8fae",
         "title": "C plus plus",
-        "short_description": "Learn how to use C++ — a powerful and flexible programming language for adding website interactivity.",
-        "about": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+        "short_description": "Learn how to use C++, a powerful and flexible programming language for adding website interactivity.",
+        "about": "You interact with C++ code all the time, you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn C++ fundamentals that will be helpful as you dive deeper into more advanced topics.",
         "thumbnail": "https://i.ibb.co/fxsbHSd/cpp.png",
         "authorImage": "https://i.ibb.co/r2hvDvH/two.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Hasan Mahmud",
         "skills": [
             "Build core programming concepts",
             "Learn object-oriented concepts",
-            "Read and write JavaScript syntax"
+            "Read and write C++ syntax"
         ],
         "student": 23420,
         "rating": 4.9,
@@ -21,38 +21,38 @@
         "syllabus" : [
             {
                 "lesson" : 1,
-                "title" : "Welcome to Learn JavaScript",
-                "courseData" : "Learn about what the JavaScript course has in store!"
+                "title" : "Welcome to Learn C++",
+                "courseData" : "Learn about what the C++ course has in store!"
 
             },
             {
                 "lesson" : 2,
                 "title" : "Introduction",
-                "courseData" : "In this course, you will learn about JavaScript data types, built-in methods, and variables."
+                "courseData" : "In this course, you will learn about C++ data types, built-in methods, and variables."
 
             },
             {
                 "lesson" : 3,
                 "title" : "Conditionals",
-                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript."
+                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program"
 
             },
             {
                 "lesson" : 4,
                 "title" : "Functions",
-                "courseData" : "Learn about JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax."
+                "courseData" : "Learn about C++ function syntax, passing data to functions, the return keyword, and concise body syntax."
 
             },
             {
                 "lesson" : 5,
                 "title" : "Scope",
-                "courseData" : "Learn about global and block level scope in JavaScript."
+                "courseData" : "Learn scope in C++"
 
             },
             {
                 "lesson" : 6,
                 "title" : "Arrays",
-                "courseData" : "In this course, you will learn about arrays, a data structure in JavaScript used to store lists of data."
+                "courseData" : "In this course, you will learn about arrays, a data structure used to store lists of data."
 
             },
             {
@@ -69,8 +69,8 @@
             },
             {
                 "lesson" : 9,
-                "title" : "Objects",
-                "courseData" : "Learn about JavaScript ES6 object syntax to model real-world items."
+                "title" : "Break statement, Continue statement, Goto statement",
+                "courseData" : "You will get to learn the statements mentioned above"
 
             }
         ]
@@ -78,15 +78,15 @@
     {
         "course_id": "6358020b1279b6d3558d8f99",
         "title": "Dart",
-        "short_description": "Learn how to use C++ — a powerful and flexible programming language for adding website interactivity.",
-        "about": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+        "short_description": "Learn how to use Dart, a powerful and flexible programming language for adding website interactivity.",
+        "about": "You interact with Dart code all the time, you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
         "thumbnail": "https://i.ibb.co/W6VtksD/dart.png",
         "authorImage": "https://i.ibb.co/gZpqVt8/tweenty.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Bijoy Sarker",
         "skills": [
             "Build core programming concepts",
             "Learn object-oriented concepts",
-            "Read and write JavaScript syntax"
+            "Read and write Dart syntax"
         ],
         "student": 23420,
         "rating": 4.9,
@@ -97,38 +97,38 @@
         "syllabus" : [
             {
                 "lesson" : 1,
-                "title" : "Welcome to Learn JavaScript",
-                "courseData" : "Learn about what the JavaScript course has in store!"
+                "title" : "Welcome to Learn Dart",
+                "courseData" : "Learn about what the Dart course has in store!"
 
             },
             {
                 "lesson" : 2,
                 "title" : "Introduction",
-                "courseData" : "In this course, you will learn about JavaScript data types, built-in methods, and variables."
+                "courseData" : "In this course, you will learn about Dart data types, built-in methods, and variables."
 
             },
             {
                 "lesson" : 3,
                 "title" : "Conditionals",
-                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript."
+                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program"
 
             },
             {
                 "lesson" : 4,
                 "title" : "Functions",
-                "courseData" : "Learn about JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax."
+                "courseData" : "Learn about Dart function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax."
 
             },
             {
                 "lesson" : 5,
                 "title" : "Scope",
-                "courseData" : "Learn about global and block level scope in JavaScript."
+                "courseData" : "Learn about global and block level scope"
 
             },
             {
                 "lesson" : 6,
                 "title" : "Arrays",
-                "courseData" : "In this course, you will learn about arrays, a data structure in JavaScript used to store lists of data."
+                "courseData" : "In this course, you will learn about arrays, a data structure in Dart used to store lists of data."
 
             },
             {
@@ -145,8 +145,8 @@
             },
             {
                 "lesson" : 9,
-                "title" : "Objects",
-                "courseData" : "Learn about JavaScript ES6 object syntax to model real-world items."
+                "title" : "Break statement, Continue statement, Goto statement",
+                "courseData" : "You will get to learn the statements mentioned above"
 
             }
         ]
@@ -154,15 +154,15 @@
     {
         "course_id": "6358020b1279b6d3558d8f00",
         "title": "Go",
-        "short_description": "Learn how to use C++ — a powerful and flexible programming language for adding website interactivity.",
-        "about": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+        "short_description": "Learn how to use Go, a powerful and flexible programming language for adding website interactivity.",
+        "about": "You interact with Go code all the time, you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
         "thumbnail": "https://i.ibb.co/b6YFcmR/go.png",
         "authorImage": "https://i.ibb.co/vZDJWt5/six.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Enam Chowdhury",
         "skills": [
             "Build core programming concepts",
             "Learn object-oriented concepts",
-            "Read and write JavaScript syntax"
+            "Read and write Go syntax"
         ],
         "student": 23420,
         "rating": 4.9,
@@ -173,38 +173,38 @@
         "syllabus" : [
             {
                 "lesson" : 1,
-                "title" : "Welcome to Learn JavaScript",
-                "courseData" : "Learn about what the JavaScript course has in store!"
+                "title" : "Welcome to Learn Go",
+                "courseData" : "Learn about what the Go course has in store!"
 
             },
             {
                 "lesson" : 2,
                 "title" : "Introduction",
-                "courseData" : "In this course, you will learn about JavaScript data types, built-in methods, and variables."
+                "courseData" : "In this course, you will learn about Go data types, built-in methods, and variables."
 
             },
             {
                 "lesson" : 3,
                 "title" : "Conditionals",
-                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript."
+                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program"
 
             },
             {
                 "lesson" : 4,
                 "title" : "Functions",
-                "courseData" : "Learn about JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax."
+                "courseData" : "Learn about Go function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax."
 
             },
             {
                 "lesson" : 5,
                 "title" : "Scope",
-                "courseData" : "Learn about global and block level scope in JavaScript."
+                "courseData" : "Learn about global and block level scope"
 
             },
             {
                 "lesson" : 6,
                 "title" : "Arrays",
-                "courseData" : "In this course, you will learn about arrays, a data structure in JavaScript used to store lists of data."
+                "courseData" : "In this course, you will learn about arrays, a data structure in Go used to store lists of data."
 
             },
             {
@@ -221,8 +221,8 @@
             },
             {
                 "lesson" : 9,
-                "title" : "Objects",
-                "courseData" : "Learn about JavaScript ES6 object syntax to model real-world items."
+                "title" : "Break statement, Continue statement, Goto statement",
+                "courseData" : "You will get to learn the statements mentioned above"
 
             }
         ]
@@ -230,15 +230,15 @@
     {
         "course_id": "6358020b1279b6d3558d8f88",
         "title": "Java",
-        "short_description": "Learn how to use C++ — a powerful and flexible programming language for adding website interactivity.",
-        "about": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+        "short_description": "Learn how to use C++, a powerful and flexible programming language for adding website interactivity.",
+        "about": "You interact with Java code all the time, you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn Java fundamentals that will be helpful as you dive deeper into more advanced topics.",
         "thumbnail": "https://i.ibb.co/7jsW0f6/java.png",
         "authorImage": "https://i.ibb.co/rFt09j6/seven.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Nasir Mitul",
         "skills": [
             "Build core programming concepts",
             "Learn object-oriented concepts",
-            "Read and write JavaScript syntax"
+            "Read and write Java syntax"
         ],
         "student": 23420,
         "rating": 4.9,
@@ -249,38 +249,38 @@
         "syllabus" : [
             {
                 "lesson" : 1,
-                "title" : "Welcome to Learn JavaScript",
-                "courseData" : "Learn about what the JavaScript course has in store!"
+                "title" : "Welcome to Learn Java",
+                "courseData" : "Learn about what the Java course has in store!"
 
             },
             {
                 "lesson" : 2,
                 "title" : "Introduction",
-                "courseData" : "In this course, you will learn about JavaScript data types, built-in methods, and variables."
+                "courseData" : "In this course, you will learn about Java data types, built-in methods, and variables."
 
             },
             {
                 "lesson" : 3,
                 "title" : "Conditionals",
-                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript."
+                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program"
 
             },
             {
                 "lesson" : 4,
                 "title" : "Functions",
-                "courseData" : "Learn about JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax."
+                "courseData" : "Learn about Java function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax."
 
             },
             {
                 "lesson" : 5,
                 "title" : "Scope",
-                "courseData" : "Learn about global and block level scope in JavaScript."
+                "courseData" : "Learn about global and block level scope"
 
             },
             {
                 "lesson" : 6,
                 "title" : "Arrays",
-                "courseData" : "In this course, you will learn about arrays, a data structure in JavaScript used to store lists of data."
+                "courseData" : "In this course, you will learn about arrays, a data structure in Java used to store lists of data."
 
             },
             {
@@ -297,8 +297,8 @@
             },
             {
                 "lesson" : 9,
-                "title" : "Objects",
-                "courseData" : "Learn about JavaScript ES6 object syntax to model real-world items."
+                "title" : "Break statement, Continue statement, Goto statement",
+                "courseData" : "You will get to learn the statements mentioned above"
 
             }
         ]
@@ -306,11 +306,11 @@
     {
         "course_id": "6358020b1279b6d3558d8f22",
         "title": "Javascript",
-        "short_description": "Learn how to use C++ — a powerful and flexible programming language for adding website interactivity.",
-        "about": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+        "short_description": "Learn how to use Javascript, a powerful and flexible programming language for adding website interactivity.",
+        "about": "You interact with JavaScript code all the time, you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
         "thumbnail": "https://i.ibb.co/FWB1YQf/javascript.jpg",
         "authorImage": "https://i.ibb.co/Hg6GdG5/nineteen.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Mahdi Khan",
         "skills": [
             "Build core programming concepts",
             "Learn object-oriented concepts",
@@ -338,7 +338,7 @@
             {
                 "lesson" : 3,
                 "title" : "Conditionals",
-                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript."
+                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program"
 
             },
             {
@@ -350,7 +350,7 @@
             {
                 "lesson" : 5,
                 "title" : "Scope",
-                "courseData" : "Learn about global and block level scope in JavaScript."
+                "courseData" : "Learn about global and block level scope"
 
             },
             {
@@ -373,8 +373,8 @@
             },
             {
                 "lesson" : 9,
-                "title" : "Objects",
-                "courseData" : "Learn about JavaScript ES6 object syntax to model real-world items."
+                "title" : "Break statement, Continue statement, Goto statement",
+                "courseData" : "You will get to learn the statements mentioned above"
 
             }
         ]
@@ -382,15 +382,15 @@
     {
         "course_id": "6358020b1279b6d3558d8f55",
         "title": "Python",
-        "short_description": "Learn how to use C++ — a powerful and flexible programming language for adding website interactivity.",
-        "about": "You interact with JavaScript code all the time — you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn JavaScript fundamentals that will be helpful as you dive deeper into more advanced topics.",
+        "short_description": "Learn how to use Python, a powerful and flexible programming language for adding website interactivity.",
+        "about": "You interact with Python code all the time, you just might not realize it. It powers dynamic behavior on websites (like this one) and plays an important role in many fields, like front- and back-end engineering, game and mobile development, virtual reality, and more. In this course, you’ll learn Python fundamentals that will be helpful as you dive deeper into more advanced topics.",
         "thumbnail": "https://i.ibb.co/h10FtVt/python.png",
         "authorImage": "https://i.ibb.co/wyCwv2k/nine.jpg",
-        "authorName": "Joann Knapp",
+        "authorName": "Rahul Khan",
         "skills": [
             "Build core programming concepts",
             "Learn object-oriented concepts",
-            "Read and write JavaScript syntax"
+            "Read and write Python syntax"
         ],
         "student": 23420,
         "rating": 4.9,
@@ -401,38 +401,38 @@
         "syllabus" : [
             {
                 "lesson" : 1,
-                "title" : "Welcome to Learn JavaScript",
-                "courseData" : "Learn about what the JavaScript course has in store!"
+                "title" : "Welcome to Learn Python",
+                "courseData" : "Learn about what the Python course has in store!"
 
             },
             {
                 "lesson" : 2,
                 "title" : "Introduction",
-                "courseData" : "In this course, you will learn about JavaScript data types, built-in methods, and variables."
+                "courseData" : "In this course, you will learn about Python data types, built-in methods, and variables."
 
             },
             {
                 "lesson" : 3,
                 "title" : "Conditionals",
-                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript."
+                "courseData" : "Learn how to use if, else if, else, switch, and ternary syntax to control the flow of a program"
 
             },
             {
                 "lesson" : 4,
                 "title" : "Functions",
-                "courseData" : "Learn about JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax."
+                "courseData" : "Learn about Python function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax."
 
             },
             {
                 "lesson" : 5,
                 "title" : "Scope",
-                "courseData" : "Learn about global and block level scope in JavaScript."
+                "courseData" : "Learn about global and block level scope"
 
             },
             {
                 "lesson" : 6,
                 "title" : "Arrays",
-                "courseData" : "In this course, you will learn about arrays, a data structure in JavaScript used to store lists of data."
+                "courseData" : "In this course, you will learn about arrays, a data structure in Python used to store lists of data."
 
             },
             {
@@ -449,8 +449,8 @@
             },
             {
                 "lesson" : 9,
-                "title" : "Objects",
-                "courseData" : "Learn about JavaScript ES6 object syntax to model real-world items."
+                "title" : "Break statement, Continue statement, Goto statement",
+                "courseData" : "You will get to learn the statements mentioned above"
 
             }
         ]
